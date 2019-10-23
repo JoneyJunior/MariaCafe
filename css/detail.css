@@ -1,0 +1,14 @@
+.contentDetail{
+    width: 700px;
+    padding-top: 0px;
+}
+
+.imageCake img{
+    width: 50%;
+    border-radius: 10px;
+    float: right;
+}
+
+.titleCake{
+    font-size: 22px;
+}

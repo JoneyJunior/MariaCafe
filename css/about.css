@@ -1,0 +1,43 @@
+.paging a{
+    color: #000;
+}
+
+.paging{
+    width: 700px;
+    text-align: center;
+}
+
+.contentAbout{
+    width: 700px;
+    height: 850px;
+}
+
+.contentAbout ul{
+    list-style: none;
+    padding-left: 0px;
+    width: 700px;
+    height: 90%;
+}
+
+.contentAbout ul li {
+    width: 90%;
+    height: 30%;
+    margin-bottom: 30px;
+}
+
+.contentAbout ul li img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.contentAbout ul li a{
+    color: #000;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.imageCake{
+    width: 60%;
+    float: left;
+    padding-right: 20px;
+}

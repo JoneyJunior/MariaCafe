@@ -1,0 +1,58 @@
+.header{
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    background-color: #f68c1f;
+}
+
+.title-wrapper{
+    background-color: #f68c1f;
+    padding: 30px 12px; 
+    color: #fff;
+}
+
+.title{
+    font-size: 47px;
+    font-weight: 400;
+    padding: 6px 0;
+}
+
+.subtitle{
+    font-size: 22px;
+    font-weight: 400;
+    padding: 2px 0;
+}
+
+.menu{
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    background-color: #890400;
+}
+
+.menu ul{
+    list-style: none;
+    padding-left: 10px;
+}
+
+.menu ul li{
+    display: inline-block;
+    height: 30px;
+    margin-right: 25px;
+    line-height: 30px;
+}
+
+.menu ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.home{
+    font-weight: 550;
+}
+
+.about{
+    font-weight: 550;
+}
+
+.find{
+    font-weight: 550;
+}

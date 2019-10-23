@@ -1,0 +1,119 @@
+body{
+    font-family: 'Open Sans';
+    background: url('../img/background.jpg') no-repeat;
+    background-position:  top center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-top: none;
+    margin-top: 0;
+    background-color: #331212;
+}
+
+.center{
+    background-color: #fff;
+    max-width: 980px;
+    margin: auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 1px solid rgba(0,0,0,.15);
+    border-left: 0 solid rgba(0,0,0,.15);
+    border-right: 0 solid rgba(0,0,0,.15);
+    box-shadow: 0 0 24px rgba(0,0,0,.8);
+}
+
+.main-content{
+    padding-bottom:  20px;
+    overflow: auto;
+}
+
+.contentLeft{
+    width: 60%;
+    float: left;
+    padding-left: 17px;
+}
+
+.contentRight{
+    padding-top: 21px;
+    width: 30%;
+    float: right;
+    padding-right: 20px;
+}
+
+.sectionIntro{
+    border-bottom: 3px dotted rgba(0,0,0,.2);
+    width: 695px;
+    height: 175px;
+    padding-bottom: 27px;
+}
+
+.content{
+    height: 175px;
+    padding-bottom: 0px;
+}
+
+.left-content{
+    float: left;
+    padding-right: 15px;
+    
+}
+
+.left-content img{
+    border-radius: 10px;
+    width: 164px;
+    height: 175px;
+}
+
+.section{
+    padding-top: 13px;
+    width: 695px;
+    height: 350px;
+    border-bottom: 3px dotted rgba(0,0,0,.2);
+}
+
+.section ul{
+    list-style: none;
+    padding-left: 0px;
+    width: 695px;
+}
+
+.section ul li{
+    width: 340px;
+    display: inline-block;
+}
+
+.li1{
+    margin-left: 11px;
+}
+
+.section ul li img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.section ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.titleContact p{
+    font-size: 24px;
+}
+
+.sectionContact{
+    width: 695px;
+    border-bottom: 3px dotted rgba(0,0,0,.2);
+    padding-bottom: 8px;
+}
+
+.sectionSignature{
+    width: 695px;
+    padding-top: 10px;
+    font-size: 16px;
+}
+
+.signature p{
+    font-family: 'Dancing Script';
+    font-size: 40px;
+}
